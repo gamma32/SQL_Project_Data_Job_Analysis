@@ -1,5 +1,5 @@
 -- Delete this later... 5/24/25 by MVT
--- renamed later to top paying jobs 5/24/25 5:10
+-- renamed later to top paying jobs 5/24/25 5:10...
 /* Question: What are the top paying data analyst jobs?
     -- identify top 10 highest paying roles data analyst that are available remotly.
     -- focus on job postings with specified salaries, ( remove nulls) 

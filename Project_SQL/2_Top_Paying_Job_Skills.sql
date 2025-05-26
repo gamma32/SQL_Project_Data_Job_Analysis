@@ -19,7 +19,7 @@ order by TPJ.salary_year_avg desc
 /*
 Question: What skills are required for top-paying data analyst jobs?
 -- Top 10 paying jobs, Note that jobs query limits top 10 jobs and later inner joins bring skill and name for top 10 jobs
-
+RESULTS:
 [
   {
     "job_id": 552322,
